@@ -1,5 +1,30 @@
+import java.util.ArrayList;
+import java.util.List;
 
-public class UseCase2TrainConsistMgmt {
+/*
+ * ============================================================
+ * MAIN CLASS - UseCase2TrainConsistMgmt
+ * ============================================================
+ *
+ * Use Case 2: Add Passenger Bogies to Train
+ *
+ * Description:
+ * This class demonstrates how passenger bogies can be
+ * managed dynamically using ArrayList operations.
+ *
+ * At this stage, the application:
+ * - Adds new bogies to the train
+ * - Removes existing bogies
+ * - Checks for bogie availability
+ * - Displays the final consist
+ *
+ * This maps CRUD operations using ArrayList.
+ *
+ * @author Developer
+ * @version 2.0
+ */
+
+public class TrainconsistmanagementApp {
 
     public static void main(String[] args) {
 
